@@ -1,5 +1,5 @@
 <h1> Hi there! </h1>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="250"/>
+  <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDltbDB0MWExaGhxaGptY2JrMW5pdGZnM2ZqbXUxcDJqbzBvMjgzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif" width="150"/>
 <p>
   I'm <b>Clara (Thu)</b>, aspiring SWE/MLE.<br><br>
   I love building projects and APIs 
