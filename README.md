@@ -5,10 +5,10 @@
 <p>I'm <b>Clara (Thu)</b>, aspiring SWE/MLE.<br><br>
 I love building projects and APIs</p>
 
-<p>Connect with me:</p>
-
-<a href="https://linkedin.com/in/hoang-anh-thu-nguyen-3970b530">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40">
-</a>
+<p>
+  <a href="https://linkedin.com/in/hthu0504">linkedin</a> · 
+  <a href="mailto:nghthu08@gmail.com">email</a> · 
+  <a href="https://github.com/hthu0504">github</a>
+</p>
 
 </div>
