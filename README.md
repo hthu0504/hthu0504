@@ -2,7 +2,7 @@
 
 # howdy, i'm Clara
 
-**general engineering @ TAMU**
+**general engineering @ tamu**
 
 building backend systems, exploring gpu infrastructure, and learning how production codebases work under the hood.
 
